@@ -1,5 +1,8 @@
 # Smart Attendance System
 
+**Developer:** SP NAIDU  
+**Email:** suryaprakashseethalam7@gmail.com
+
 A modern, automated attendance system using **facial recognition** powered by deep learning. This system automatically marks attendance when it recognizes a student's face using a trained Keras neural network model.
 
 ---
@@ -475,10 +478,16 @@ A: Yes, any Keras model taking 224×224 input will work (may need preprocessing 
 
 ## 📧 Support & Contact
 
-For issues, questions, or suggestions, please refer to the project documentation or contact the development team.
+**Project Developer:** SP NAIDU
+
+**Email:** suryaprakashseethalam7@gmail.com
+
+For issues, questions, or suggestions, feel free to reach out via email or refer to the project documentation.
 
 ---
 
 **Last Updated:** March 31, 2026
 
 **Version:** 1.0.0
+
+**Developed by:** SP NAIDU
